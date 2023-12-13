@@ -4,8 +4,6 @@ import re
 import os
 
 # Set your app's package name and activity name
-# package_name = "com.dyson.mobile.android.debug"
-# activity_name = "com.dyson.mobile.android.launch.LaunchActivity"
 package_name = "com.dyson.codelab_compose"
 activity_name = "com.dyson.codelab_compose.MainActivity"
 tag_name = "RxLoggingExtensions"
